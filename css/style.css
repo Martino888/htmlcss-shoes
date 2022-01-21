@@ -31,6 +31,11 @@ body div img {
     text-align: center;
 }
 
+body div img:hover{
+    transform: rotate(0.1turn);
+}
+
+
 .textmodel2{
     color:green;
     position: absolute;
